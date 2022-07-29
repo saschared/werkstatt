@@ -341,5 +341,7 @@ width: 300px;
 .produkt img{
 	max-width:800px;
 	height:auto;
-	
+}
+.reparatur{
+	background-color:gelb;
 }
