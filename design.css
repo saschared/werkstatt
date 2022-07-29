@@ -158,7 +158,8 @@ width:200px;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
-	padding-bottom:2rem;
+	padding-bottom:5rem;
+		padding-top:2rem;
 	}
 	.kontakt p{
 		margin-left:70%;
