@@ -418,10 +418,22 @@ width: 300px;
 		float:right;
 }
 .repair{
-	text-align:justify;
-	margin-left:60%;
+	font-family:antiqua;
+	font-size:1rem;
+	text-align: justify;
+		color:black;
+		margin-left:65%;
+		border:0px solid green;
+		
+	padding:0.5rem 1rem 1rem 0.5rem;
 }
 .repair2{
-	text-align:justify;
-	margin-right:60%;
+	font-family:antiqua;
+	font-size:1rem;
+	text-align: justify;
+		color:black;
+		margin-right:65%;
+		border:0px solid green;
+		
+	padding:0.5rem 1rem 1rem 0.5rem;
 }
