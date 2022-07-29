@@ -357,3 +357,54 @@ width: 300px;
 		background-color:#ff921e;
 	padding:0.5rem 1rem 1rem 0.5rem;
 }
+.page-body2{
+	font-family:antiqua;
+	font-size:16px;
+	text-align: center;
+	min-width:400px;
+	max-width:800px;
+	color:black;
+	margin-top:1rem;
+	margin-left:15rem;
+	
+	border-top:1px solid black;
+	border-bottom:1px solid black;
+	padding-top:2rem;
+	padding-bottom:5rem;
+}
+.kontakt2{
+	font-family:antiqua;
+	font-size:1rem;
+	text-align: justify;
+		color:black;
+	min-width:400px;
+	max-width:800px;
+	
+	margin-left:15rem;
+	margin-right:10rem;
+	border-bottom:1px solid black;
+	padding-bottom:2rem;	
+	}
+	.kontakt2 a{
+		text-decoration:none;
+	}
+	
+.gallery2{
+	font-family:antiqua;
+	
+	
+	min-width:400px;
+	max-width:800px;
+	
+	
+	margin-left:15rem;
+	
+	margin-bottom:5rem;
+	border-bottom:1px solid black;
+	padding-top:2rem;
+	padding-bottom:2rem;
+	
+	display:grid;
+	grid-template-columns:repeat(2,1fr);
+	grid-gap:1rem;
+}
