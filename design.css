@@ -79,7 +79,7 @@ nav ul {
   text-align: center;
   margin-top:1rem;
 	margin-left:15rem;
-	
+	margin-right:10rem;
   
   white-space:nowrap;
 }
@@ -105,6 +105,7 @@ nav ul {
 	color:black;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -116,7 +117,7 @@ h3{
 	font-family:antiqua;
 	font-size:18px;
 	text-align: center;
-	
+	margin-right:5rem;
 	margin-left:5rem;
 	
 }
@@ -129,6 +130,7 @@ h3{
 	max-width:800px;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -155,6 +157,7 @@ width:200px;
 	color:black;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -182,6 +185,7 @@ width:200px;
 	color:black;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -232,6 +236,7 @@ width:200px;
 	color:black;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -245,13 +250,11 @@ width:200px;
 
 .gallery{
 	font-family:antiqua;
-	
-	
 	min-width:400px;
 	max-width:800px;
-	
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -282,7 +285,6 @@ width: 300px;
 	left:0;
 	width:100%;
 	height:100%;
-	
 	transition:background 0.5s ease;
 }
 	.gallery__item:hover .overlay{
@@ -333,6 +335,7 @@ width: 300px;
 	color:black;
 	margin-top:1rem;
 	margin-left:15rem;
+	margin-right:10rem;
 	margin-bottom:10rem;
 	border-top:1px solid black;
 	border-bottom:1px solid black;
@@ -344,5 +347,13 @@ width: 300px;
 	height:auto;
 }
 .reparatur{
-	background-color:gelb;
+	font-family:antiqua;
+	font-size:1rem;
+	text-align: justify;
+		color:white;
+		margin-left:70%;
+	
+		border:0px solid green;
+		background-color:#ff921e;
+	padding:0.5rem 1rem 1rem 0.5rem;
 }
