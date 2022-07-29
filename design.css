@@ -424,7 +424,7 @@ width: 300px;
 		color:black;
 		margin-left:60%;
 		border:0px solid green;
-		
+		min-width:300px;
 	padding:0.5rem 1rem 1rem 0.5rem;
 }
 .repair2{
@@ -434,6 +434,6 @@ width: 300px;
 		color:black;
 		margin-right:60%;
 		border:0px solid green;
-		
+		min-width:300px;
 	padding:0.5rem 1rem 1rem 0.5rem;
 }
