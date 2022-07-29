@@ -408,3 +408,20 @@ width: 300px;
 	grid-template-columns:repeat(2,1fr);
 	grid-gap:1rem;
 }
+.imag{
+	margin-top:1rem;
+		
+		margin-right:2rem;
+		border: 0px solid red;
+		max-width:400px;
+		max-height:300px;
+		float:right;
+}
+.repair{
+	text-align:justify;
+	margin-left:60%;
+}
+.repair2{
+	text-align:justify;
+	margin-right:60%;
+}
